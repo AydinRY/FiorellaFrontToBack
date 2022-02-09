@@ -139,3 +139,5 @@
 /Users/aydinyusubov/Desktop/HomeWorks/BackEnd/FiorelloFrontToBack/FiorelloFrontToBack/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/aydinyusubov/Desktop/HomeWorks/BackEnd/FiorelloFrontToBack/FiorelloFrontToBack/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
 /Users/aydinyusubov/Desktop/HomeWorks/BackEnd/FiorelloFrontToBack/FiorelloFrontToBack/obj/Debug/net5.0/Razor/Views/Shared/_ProductPartial.cshtml.g.cs
+/Users/aydinyusubov/Desktop/HomeWorks/BackEnd/FiorelloFrontToBack/FiorelloFrontToBack/obj/Debug/net5.0/Razor/Views/Shared/Components/Header/Default.cshtml.g.cs
+/Users/aydinyusubov/Desktop/HomeWorks/BackEnd/FiorelloFrontToBack/FiorelloFrontToBack/obj/Debug/net5.0/Razor/Views/Shared/Components/Footer/Default.cshtml.g.cs

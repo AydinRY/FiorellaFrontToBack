@@ -33,5 +33,7 @@ namespace HomeWork.DataLayerAccess
 
         public DbSet<Instagram> Instagrams { get; set; }
 
+        public DbSet<Bio> Bios { get; set; }
+
     }
 }
